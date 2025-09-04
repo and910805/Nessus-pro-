@@ -15,6 +15,7 @@ Nessus 介面永遠是英文，但你可以在 **About → Plugin Detail Locale*
 ##  左側選單功能介紹
 
 Nessus Pro 的操作介面雖然固定為英文，但分類清楚，以下是主要功能：
+
 ![https://ithelp.ithome.com.tw/upload/images/20250904/20171891HJOKkJuwtY.png](https://ithelp.ithome.com.tw/upload/images/20250904/20171891HJOKkJuwtY.png)
 
 ### **Folders**
